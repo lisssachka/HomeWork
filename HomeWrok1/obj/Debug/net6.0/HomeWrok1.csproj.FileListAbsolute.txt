@@ -1,0 +1,15 @@
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\bin\Debug\net6.0\HomeWrok1.exe
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\bin\Debug\net6.0\HomeWrok1.deps.json
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\bin\Debug\net6.0\HomeWrok1.runtimeconfig.json
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\bin\Debug\net6.0\HomeWrok1.dll
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\bin\Debug\net6.0\HomeWrok1.pdb
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\obj\Debug\net6.0\HomeWrok1.csproj.AssemblyReference.cache
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\obj\Debug\net6.0\HomeWrok1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\obj\Debug\net6.0\HomeWrok1.AssemblyInfoInputs.cache
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\obj\Debug\net6.0\HomeWrok1.AssemblyInfo.cs
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\obj\Debug\net6.0\HomeWrok1.csproj.CoreCompileInputs.cache
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\obj\Debug\net6.0\HomeWrok1.dll
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\obj\Debug\net6.0\refint\HomeWrok1.dll
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\obj\Debug\net6.0\HomeWrok1.pdb
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\obj\Debug\net6.0\HomeWrok1.genruntimeconfig.cache
+C:\Users\Petrov\Videos\gb\HomeWork\HomeWrok1\obj\Debug\net6.0\ref\HomeWrok1.dll
